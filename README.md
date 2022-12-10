@@ -57,13 +57,14 @@
 <p>
 OpenGamePanel & Pterodactyl
 
+Plesk
+CPanel
+CyberPanel
 CloudPanel
 control-webpanel
 Aapanel
 VestaCP
-CyberPanel
-Plesk
-CPanel 
+Sentora
 
 </p>
 </div>
