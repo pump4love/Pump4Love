@@ -61,7 +61,7 @@ Plesk
 CPanel
 CyberPanel
 CloudPanel
-control-webpanel
+Control-WebPanel
 Aapanel
 VestaCP
 Sentora
