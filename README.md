@@ -49,6 +49,7 @@
 <img src="https://img.shields.io/badge/MariaDB-b99d76?style=flat-square&logo=MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=flat-square&logo=editorconfig&logoColor=000"> 
 <img src="https://img.shields.io/badge/SourcePawn-f69e1d?style=flat-square&logo=SourcePawncode&logoColor=white">
+<p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Sublime Text-ff9800?style=flat-square&logo=Sublime Textcode&logoColor=white">
 <img src="https://img.shields.io/badge/Notepad++-a9f37e?style=flat-square&logo=Notepad++code&logoColor=white">
