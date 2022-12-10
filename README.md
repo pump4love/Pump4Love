@@ -20,6 +20,7 @@
 
 ---
 
+<div align="center">
 <h3>Operating Systems</h3>
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> 
@@ -52,6 +53,7 @@
 <img src="https://img.shields.io/badge/Sublime Text-ff9800?style=flat-square&logo=Sublime Textcode&logoColor=white">
 <img src="https://img.shields.io/badge/Notepad++-a9f37e?style=flat-square&logo=Notepad++code&logoColor=white">
 </p>
+</div>
 
 ---
 
