@@ -43,13 +43,12 @@
 <img src="https://img.shields.io/badge/PHP-6e81b6?style=flat-square&logo=PHP&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Apache-d12127?style=flat-square&logo=Apache&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-b99d76?style=flat-square&logo=MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Apache-d12127?style=flat-square&logo=Apache&logoColor=white">
 <img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=flat-square&logo=editorconfig&logoColor=000"> 
 <img src="https://img.shields.io/badge/SourcePawn-f69e1d?style=flat-square&logo=SourcePawncode&logoColor=white">
-<p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Sublime Text-ff9800?style=flat-square&logo=Sublime Textcode&logoColor=white">
 <img src="https://img.shields.io/badge/Notepad++-a9f37e?style=flat-square&logo=Notepad++code&logoColor=white">
