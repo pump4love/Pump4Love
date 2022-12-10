@@ -53,6 +53,19 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Sublime Text-ff9800?style=flat-square&logo=Sublime Textcode&logoColor=white">
 <img src="https://img.shields.io/badge/Notepad++-a9f37e?style=flat-square&logo=Notepad++code&logoColor=white">
+<h3>Setup</h3>
+<p>
+OpenGamePanel
+Pterodactyl
+
+CloudPanel
+Centos Web Panel
+Aapanel
+VestaCP
+CyberPanel
+Plesk
+CPanel 
+
 </p>
 </div>
 
