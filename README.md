@@ -58,7 +58,7 @@
 OpenGamePanel & Pterodactyl
 
 CloudPanel
-Centos Web Panel
+control-webpanel
 Aapanel
 VestaCP
 CyberPanel
