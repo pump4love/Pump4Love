@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"> 
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"> 
 <img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white">
-<img src="https://img.shields.io/badge/AlmaLinux-262577?style=flat-square&logo=CentOS&logoColor=white">
+<img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-almalinux-logo.png/AlmaLinux-262577?style=flat-square&logo=CentOS&logoColor=white">
 <img src="https://img.shields.io/badge/Proxmox-e57000?style=flat-square&logo=Proxmox&logoColor=white">
 <p>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square">   
