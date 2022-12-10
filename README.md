@@ -20,11 +20,38 @@
 
 ---
 
-<div align="center">
-  <h3>Languages - Novice</h3>
-<a href="https://github.com/pump4love"><img src="https://img.shields.io/static/v1?label=&message=SourcePawn&color=F69E1D&style=for-the-badge&logoColor=FFFFFF&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAOCAQAAABXnf4jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfmCBwNHSYDz4trAAAAl0lEQVQY002NMQ4BYRQG571fRTYRp8AtqERC6BRu4WQacRjZwhHQyGZ3FCthqm+abxBTrJw67DcW8Wjty5sHsWA498fMSGSBNECDLDGBO0EBCsEdME3PaqOeTRPDmbWdnZ11/wXBkACCigQciBv1rW7FQRIEE1oaWsYEkSTJjsKIwp4kQ4AVFR3JkyuEJ9Y8EL6BS9jLHx9U4mJ6+kVL1wAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0wOC0yOFQxMzoyOToyOCswMDowMHk069YAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMDgtMjhUMTM6Mjk6MjgrMDA6MDAIaVNqAAAAAElFTkSuQmCC" alt="SourcePawn" /></a>
-  <a href="https://github.com/pump4love"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5"/></a>
-</div>
+<h3>Operating Systems</h3>
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> 
+<img src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=Windows%2011&logoColor=white">
+<img src="https://img.shields.io/badge/Windows Server-12a6ae?style=flat-square&logo=Server&logoColor=white">  
+<img src="https://img.shields.io/badge/Hyper V-0078D4?style=flat-square&logo=Hyper-V&logoColor=white">
+<p>     
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"> 
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
+<img src="https://img.shields.io/badge/Proxmox-e57000?style=flat-square&logo=Proxmox&logoColor=white"> 
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"> 
+<img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square">   
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white">
+</p>
+<h3>Languages - Novice</h3>
+<p>
+<img src="https://img.shields.io/badge/PHP-6e81b6?style=flat-square&logo=PHP&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-b99d76?style=flat-square&logo=MariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Apache-d12127?style=flat-square&logo=Apache&logoColor=white">
+<img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=flat-square&logo=editorconfig&logoColor=000"> 
+<img src="https://img.shields.io/badge/SourcePawn-f69e1d?style=flat-square&logo=SourcePawncode&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Sublime Text-ff9800?style=flat-square&logo=Sublime Textcode&logoColor=white">
+<img src="https://img.shields.io/badge/Notepad++-a9f37e?style=flat-square&logo=Notepad++code&logoColor=white">
+</p>
 
 ---
 
