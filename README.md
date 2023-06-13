@@ -76,7 +76,7 @@ Sentora
 <div align="center">
   <h3>Links</h3>
   
-  <a target="_blank" href="https://discord.com/users/241286460924231680"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=161B22&style=for-the-badge&logo=discord" alt="Discord" /></a>
+  <a target="_blank" href="https://discord.com/users/280453207707090954"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=161B22&style=for-the-badge&logo=discord" alt="Discord" /></a>
   <a target="_blank" href="https://steamcommunity.com/profiles/76561198025857049"><img src="https://img.shields.io/static/v1?label=&message=Steam&color=161B22&style=for-the-badge&logo=Steam" alt="Steam" /></a>
 </div>
 
