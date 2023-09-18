@@ -91,5 +91,4 @@ Sentora
 </div>
 
 <div align="center">
-  <h3>Links</h3>
   
