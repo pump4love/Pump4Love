@@ -81,10 +81,14 @@ Sentora
 </div>
 
 ---
-<p>
 <div align="center">
   <h3>Hobby</h3>
-
+<p>
+Build.
+Repairs.
+PC - Server
+Iphone
+Hardware - Software
 
 ---
 </p>
