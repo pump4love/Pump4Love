@@ -85,9 +85,13 @@ Sentora
   <h3>Hobby</h3>
 <p>
 Build.
+<p>
 Repairs.
+<p>
 PC - Server
+<p>
 Iphone
+<p>
 Hardware - Software
 
 ---
