@@ -82,7 +82,6 @@ Sentora
 
 ---
 <p>
----
 <div align="center">
   <h3>Hobby</h3>
 
