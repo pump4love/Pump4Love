@@ -88,11 +88,11 @@ Build.
 <p>
 Repairs.
 <p>
-PC - Server
+PC - Server.
 <p>
-Iphone
+Iphones.
 <p>
-Hardware - Software
+Hardware - Software.
 
 ---
 </p>
