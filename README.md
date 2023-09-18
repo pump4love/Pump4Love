@@ -83,12 +83,11 @@ Sentora
 ---
 <p>
 ---
-<h3>Hobby.</h3>
+<div align="center">
+  <h3>Hobby</h3>
 
 
 ---
 </p>
 </div>
-
-<div align="center">
   
