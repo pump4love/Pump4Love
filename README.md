@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/PHP-6e81b6?style=flat-square&logo=PHP&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/C# CSharp-9a4993?style=flat-square&logo=C-Sharpcode&logoColor=white">
+<img src="https://img.shields.io/badge/CSharp-9a4993?style=flat-square&logo=C-Sharpcode&logoColor=white">
 <img src="https://img.shields.io/badge/Apache-d12127?style=flat-square&logo=Apache&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
