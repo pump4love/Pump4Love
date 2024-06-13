@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/Notepad++-a9f37e?style=flat-square&logo=Notepad++code&logoColor=white">
 <h3>Setup</h3>
 <p>
-Pterodactyl - TCAdmin - OpenGamePanel - Pelican
+Pelican - Pterodactyl - TCAdmin - OpenGamePanel
 
 Plesk
 CPanel
